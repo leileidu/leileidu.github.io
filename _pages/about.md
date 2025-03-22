@@ -20,8 +20,8 @@ I am a postdoctoral fellow in School of Information Science and Engineering at [
 
 
 # Contact
-<p style="line-heigh: 0.8">512, Building No.1,</p>
-<p style="line-heigh: 0.8">the National Supercomputing Center in Changsha (NSCC-CS),</p>
-<p style="line-heigh: 0.8">No. 252, Lushan South Road,</p>
-<p style="line-heigh: 0.8">Yuelu District, Changsha, Hunan, China</p>
-<p style="line-heigh: 0.8">[Show in Google Maps](https://www.google.com/maps/place/%E5%9B%BD%E5%AE%B6%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E9%95%BF%E6%B2%99%E4%B8%AD%E5%BF%83/@28.172466,112.9442623,19z/data=!3m1!4b1!4m6!3m5!1s0x34274b227f414be7:0xd5dea629ea151093!8m2!3d28.172466!4d112.944906!16s%2Fg%2F12hhgqbvt?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D)</p>
+512, Building No.1,
+the National Supercomputing Center in Changsha (NSCC-CS),
+No. 252, Lushan South Road,
+Yuelu District, Changsha, Hunan, China
+[Show in Google Maps](https://www.google.com/maps/place/%E5%9B%BD%E5%AE%B6%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E9%95%BF%E6%B2%99%E4%B8%AD%E5%BF%83/@28.172466,112.9442623,19z/data=!3m1!4b1!4m6!3m5!1s0x34274b227f414be7:0xd5dea629ea151093!8m2!3d28.172466!4d112.944906!16s%2Fg%2F12hhgqbvt?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D)
