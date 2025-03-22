@@ -13,6 +13,10 @@ I am a postdoctoral fellow in School of Information Science and Engineering at [
 [Short biography]()
 
 ## In a nutshell
+- 2025-present: Post-Doc, [Hunan University](https://www.hnu.edu.cn/), Changsha, China. Cooperation Supervisor: [Kenli Li](https://csee.hnu.edu.cn/people/likenli)
+- 2020-2024: Ph.D, [East China Normal University](https://english.ecnu.edu.cn/), Shanghai, China. Supervisor: [Peng Cheng](https://cspcheng.github.io/)
+- 2017-2020: M.S., [Hunan University](https://www.hnu.edu.cn/), Changsha, China. Supervisor: [Kenli Li](https://csee.hnu.edu.cn/people/likenli)
+
 
 Getting started
 ======
