@@ -10,7 +10,7 @@ redirect_from:
 I am a postdoctoral fellow in School of Information Science and Engineering at [Hunan University](http://www-en.hnu.edu.cn/) from 2025.
 
 # CV
-[Short biography]()
+[Short biography](leileidu.github.io/files/biography.txt)
 
 ## In a nutshell
 - 2025-present: Post-Doc, [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Cooperation Supervisor: [Kenli Li](https://csee.hnu.edu.cn/people/likenli)
