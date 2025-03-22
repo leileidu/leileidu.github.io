@@ -305,6 +305,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-scholar
+
+# add by leilei du
+scholar:
+  style: apa
+  locale: en
 
 # Mimic GitHub Pages with --safe
 whitelist:
