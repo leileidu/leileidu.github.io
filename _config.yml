@@ -311,6 +311,8 @@ plugins:
 scholar:
   style: apa
   locale: en
+  bibliography: 
+    - _bibliography/papers.bib
 
 # Mimic GitHub Pages with --safe
 whitelist:
