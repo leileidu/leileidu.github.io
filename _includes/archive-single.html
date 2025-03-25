@@ -38,14 +38,15 @@
       <p>
         <!-- strong>Author:</strong--> 
         {% for author in post.author %}
-        {% if author == post.empauthor %}
+          {% if author == post.empauthor %}
             <strong>{{ author }}</strong>
-        {% elsif author in post.correspondingauthor %}
+          {% elsif author in post.correspondingauthor %}
             {{ author }}<sup>*</sup>
-        {% else %}
+          {% else %}
             {{ author }}
-        {% endif %}
-        {% if forloop.last == false %}, {% endif %}
+          {% endif %}
+          {% if forloop.last == false %}, {% endif %}
+        {% endfor %}
       </p>
     {% endif %}
 
