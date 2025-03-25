@@ -33,6 +33,13 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    <!-- 添加作者信息 -->
+    {% if post.author %}
+      <p class="archive__item-author">
+        <strong>Author:</strong> {{ post.author }}
+      </p>
+    {% endif %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
