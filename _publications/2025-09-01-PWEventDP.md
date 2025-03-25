@@ -10,7 +10,7 @@ venueshort: 'VLDB'
 venuerank: 'CCF A'
 slidesurl: 'http://leileidu.github.io/files/slides3.pdf'
 paperurl: 'http://leileidu.github.io/files/pub/2025-VLDB-PWEventDP/2025-VLDB-PWEventDP.pdf'
-citation: 'xxx'
+citation: 'Not Found'
 author: 
   - 'Leilei Du'
   - 'Peng Cheng'
