@@ -33,10 +33,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    <!-- 添加作者信息 -->
+   
     {% if post.author %}
       <p>
-        <!-- <strong>Author:</strong> --> 
         {% for author in post.author %}
           {% if author == post.empauthor %}
             <strong>{{ author }}</strong>
