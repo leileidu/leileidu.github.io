@@ -35,8 +35,17 @@
     </h2>
     <!-- 添加作者信息 -->
     {% if post.author %}
-      <p class="archive__item-author">
-        <strong>Author:</strong> {{ post.author }}
+      <p>
+        <!-- strong>Author:</strong--> 
+        {% for author in post.author %}
+        {% if author == post.empauthor %}
+            <strong>{{ author }}</strong>
+        {% elsif author in post.correspondingauthor %}
+            {{ author }}<sup>*</sup>
+        {% else %}
+            {{ author }}
+        {% endif %}
+        {% if forloop.last == false %}, {% endif %}
       </p>
     {% endif %}
 
