@@ -36,8 +36,10 @@
 
     {% if post.author %}
       <p>
-        {{ post.author }} 
-        {% if forloop.last == true %}, {% endif %}
+        {% for author in post.author %}
+          {{ author }}
+        {% if forloop.last == false %}, {% endif %}
+    {% endfor %}
       </p>
     {% endif %}
 
