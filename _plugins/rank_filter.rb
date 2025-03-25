@@ -28,4 +28,4 @@ module Jekyll
 end
 
 # 注册过滤器
-Liquid::Template.register_filter(Jekyll::RankFilter)
+# Liquid::Template.register_filter(Jekyll::RankFilter)
