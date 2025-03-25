@@ -39,6 +39,8 @@
         {% for author in post.author %}
           {% if author == post.empauthor %}
             <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+          {% elsif author in post.correspondingauthor %}
+            {{ author }}<sup>*</sup>{% if forloop.last == false %}, {% endif %}
           {% else %}
             {{ author }}{% if forloop.last == false %}, {% endif %}
           {% endif %}
