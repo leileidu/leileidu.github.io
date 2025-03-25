@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2025-05-19-SDELDP
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-09-01
-venue: 'International Conference on Database Systems for Advanced Applications'
-venueshort: 'ICDE'
+venue: 'International Conference on Very Large Data Bases'
+venueshort: 'VLDB'
 venuerank: 'CCF A'
 slidesurl: 'http://leileidu.github.io/files/slides3.pdf'
 paperurl: 'http://leileidu.github.io/files/pub/2025-VLDB-PWEventDP/2025-VLDB-PWEventDP.pdf'
