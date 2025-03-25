@@ -83,6 +83,23 @@ publication_category:
     title: 'Journal Articles'    
   books:
     title: 'Books'
+
+# add by Leilei Du
+
+rank_name:
+  ccf_A: 'CCF A'
+  ccf_B: 'CCF B'
+  zky_1: '中科院一区'
+
+ccf_rank:
+  ccf_A: 
+    - 'SIGMOD'
+    - 'VLDB'
+    - 'ICDE'
+  ccf_B:
+    - 'DASFAA'
+    - 'Inf.Sci.'
+
   
 
 # Site Settings
