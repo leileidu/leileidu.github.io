@@ -33,6 +33,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.author %}
+      <p>{{ post.author | inspect }}</p>
+    {% endif %}
+
    
     {% if post.author %}
       <p>
