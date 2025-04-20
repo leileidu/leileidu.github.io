@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "https://blog.csdn.net/2301_82290868" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  csdn             : "https://blog.csdn.net/2301_82290868"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
