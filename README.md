@@ -89,4 +89,5 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 </div>
 
 # Some directories
-1. Home: _pages/about.md
+1. left author information: _includes/author-profile.html
+2. Home: _pages/about.md
