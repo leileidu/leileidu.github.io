@@ -91,3 +91,4 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 # Some directories
 1. left author information: _includes/author-profile.html
 2. Home: _pages/about.md
+3. Navigate: _data/navigation.yml
