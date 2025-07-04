@@ -17,7 +17,7 @@ main:
   - title: "Tools"
     url: /tools/
 
-  - tile: "Lessons"
+  - title: "Lessons"
     url: /lessons/
 
   #- title: "Talks"
