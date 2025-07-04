@@ -15,10 +15,10 @@ main:
     url: /research/
 
   - title: "Tools"
-    url: /tools
+    url: /tools/
 
   - tile: "Lessons"
-    url: /lessons
+    url: /lessons/
 
   #- title: "Talks"
   #  url: /talks/    
